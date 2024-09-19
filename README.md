@@ -62,7 +62,7 @@ Sets up the game environment, including the screen, paddles, ball, and scoreboar
 
 ## **Example**
 
-![alt text]()
+![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_22.PNG?raw=true)
 
 
 
