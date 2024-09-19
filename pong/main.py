@@ -26,8 +26,9 @@ screen.onkey(l_paddle.go_down, "s")  # Move left paddle down
 
 game_is_on = True
 while game_is_on:
-    screen.update()  
-    ball.move()  
+    screen.update()
+    time.sleep(0.01)
+    ball.move()
 
     # Detect collision with top or bottom wall
     if ball.ycor() > 280 or ball.ycor() < -280:
