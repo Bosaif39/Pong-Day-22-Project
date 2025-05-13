@@ -55,15 +55,16 @@ Sets up the game environment, including the screen, paddles, ball, and scoreboar
   - Runs the game loop, handling ball movement, collision detection, and scoring.
   - Updates the screen continuously and exits when clicked.
 
-## Requirements
-
-- **Python 3.x**: Ensure you have Python 3.x installed on your machine.
-- **`turtle` module**: This module is included with Python’s standard library.
 
 ## **Example**
 
 ![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_22.PNG?raw=true)
 
+
+## Requirements
+
+- **Python 3.x**
+- **`turtle` module** (usually comes pre-installed with Python)
 
 
 
